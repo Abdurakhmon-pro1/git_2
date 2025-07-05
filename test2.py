@@ -1,1 +1,2 @@
 print("write")
+print("read")
